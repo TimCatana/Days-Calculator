@@ -25,7 +25,7 @@
 <br>
 - include argument not required     
  
- `./daysCalculatorD <today> 31-12-2019 <include>` 
+ `./daysCalculatorD <today> <day2>-<month2>-<year2> <include>` 
 <br>
 - include and today arguments not required
 
@@ -34,6 +34,6 @@
 <br>
 - include argument not required                 
 
-`./daysCalculatorE <today> 31-12-2019 <include>` 
+`./daysCalculatorE <today> <day2>-<month2>-<year2> <include>` 
 <br>
 - include and today arguments not required
