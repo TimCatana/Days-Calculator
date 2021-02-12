@@ -23,15 +23,17 @@
 ## daysCalculatorD
 `./daysCalculatorD <day1>-<month1>-<year1> <day2>-<month2>-<year2> <include>`
 <br>
-- include argument not required<br>
-`./daysCalculatorD <today> 31-12-2019 <include>` 
+- include argument not required     
+ 
+ `./daysCalculatorD <today> 31-12-2019 <include>` 
 <br>
 - include and today arguments not required
 
 ## daysCalculatorE
 `./daysCalculatorE <day1>-<month1>-<year1> <day2>-<month2>-<year2> <include>`
 <br>
-- include argument not required
+- include argument not required                 
+
 `./daysCalculatorE <today> 31-12-2019 <include>` 
 <br>
 - include and today arguments not required
